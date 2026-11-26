@@ -1,3 +1,4 @@
+# Patch content revision 1.2.1
 ホーム=Home
 控え室=Lounge
 持ち物=Inventory
