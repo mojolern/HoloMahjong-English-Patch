@@ -7,13 +7,13 @@ An unofficial English and accessibility patch for HoloMahjong.
 1. Download `HoloMahjong-English-Patch-DropIn.zip` from the latest release.
 2. Fully close HoloMahjong.
 3. Extract the ZIP directly beside `HoloMahjong.exe`.
-4. Use `Launch HoloMahjong (English Patch).cmd` to update and launch.
+4. Launch HoloMahjong normally.
 
 The first-install ZIP includes BepInEx and XUnity AutoTranslator. It does not include the game or original game assets.
 
 ## Updates
 
-`Launch HoloMahjong (English Patch).cmd` checks the update manifest before every launch. Files are compared by SHA-256, and only changed patch files are downloaded. `Update HoloMahjong English Patch.cmd` performs the same check without launching the game.
+A small BepInEx preloader checks the update manifest during normal game startup, before translations and accessibility plugins load. Files are compared by SHA-256, and only changed patch files are downloaded. If GitHub cannot be reached, the game continues offline with the installed files.
 
 The incremental payload consists only of:
 
