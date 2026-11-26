@@ -702,7 +702,7 @@ holoXの雀卓=holoX Mahjong Table
 4期生の雀卓=Generation 4 Mahjong Table
 1期生の雀卓=Generation 1 Mahjong Table
 牌源郷の頂点を決める麻雀の祭典。\n優勝者はどんな願いも１つだけ叶えられる。=A mahjong festival to determine the greatest player in Haigenkyo. The champion is granted one wish.
-ホロライブ大大大麻雀大会=hololive Super-Super-Super Mahjong Tournament
+ホロライブ大大大麻雀大会=hololive Super-Duper Mahjong Tournament
 
 # Natural English pass: items, cosmetics, modes, tutorials, missions, and story text
 質素なプレゼントボックス=Simple Gift Box
@@ -901,6 +901,10 @@ theドラボーナス=The Dora Bonus
 え、ええ～っ！？　これ\n団長が前から欲しがってた\nプレゼントだぁ～！=W-Whoa! This is the gift Danchou has wanted for ages!
 幸せだな……ありがとう！=I'm so happy... Thank you!
 
+ノエルってば、ほっぺたにご飯つぶがつきまくってたね。\n気づかなかったら危なかったよー。=Noel had rice crumbs all over her cheeks.\nGood thing I noticed before she walked off like that.
+ふふ、ノエルは優勝したら、叶えたいお願い事があるの？=Hehe, Noel, is there a wish you'd like granted if you win?
+ん？　ああ、これかあ。\n『ホロライブ大大大麻雀大会』のお知らせチラシだね。=Hm? Oh, this?\nIt's a flyer for the hololive Super-Duper Mahjong Tournament.
+スーパー・スペシャル・すごい雀士の略称。\nホロライブ大大大麻雀大会の優勝者に贈られる称号。=Short for Super, Special, and Spectacular Mahjong Player.\nA title awarded to the winner of the hololive Super-Duper Mahjong Tournament.
 # --- BEGIN REVIEWED STORY TRANSLATIONS ---
 麻雀を愛する人々の想いが生んだ、もう１つの世界。=Another world, born from the hopes of all who love mahjong.
 この世界で頂点に輝いた者には\n１つだけ、どんな願いでも叶う権利が与えられる……。=Whoever rises to the top of this world earns the right\nto have one wish—any wish—granted...
