@@ -1,14 +1,8 @@
 {
   "schema": 1,
-  "version": "1.1.4",
-  "generated_utc": "2026-11-26T04:27:25.8226207Z",
+  "version": "1.1.5",
+  "generated_utc": "2026-11-26T04:29:49.9164366Z",
   "files": [
-    {
-      "path": "BepInEx/patchers/HoloMahjong.AutoUpdater.dll",
-      "size": 13824,
-      "sha256": "c1b0c76ef7ac1d173055fb453be82bdf16e73fc799a61fd7e0f5b4df0b1ce033",
-      "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/BepInEx/patchers/HoloMahjong.AutoUpdater.dll"
-    },
     {
       "path": "BepInEx/plugins/HoloMahjongResponsiveUI/HoloMahjong.ResponsiveUI.dll",
       "size": 18944,
