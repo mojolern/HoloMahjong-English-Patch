@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "1.2.2",
-  "generated_utc": "2026-11-26T04:41:21.7782383Z",
+  "version": "1.2.3",
+  "generated_utc": "2026-11-26T04:43:40.0676204Z",
   "files": [
     {
       "path": "BepInEx/patchers/HoloMahjong.AutoUpdater.dll",
