@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "version": "1.1.0",
+  "generated_utc": "2026-11-26T04:02:11.3221754Z",
+  "files": [
+    {
+      "path": "BepInEx/plugins/HoloMahjongResponsiveUI/HoloMahjong.ResponsiveUI.dll",
+      "size": 18944,
+      "sha256": "360960239ea03aaa588a6527578d859a39a4c1f0422f147a4499bd82c497935a",
+      "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/BepInEx/plugins/HoloMahjongResponsiveUI/HoloMahjong.ResponsiveUI.dll"
+    },
+    {
+      "path": "BepInEx/plugins/HoloMahjongResponsiveUI/NumberedMahjongTiles-Large.png",
+      "size": 583032,
+      "sha256": "9ef16cade2cb7bc4a558367e6b5a7fd7f13b8ce951ec8d10b9faec8ed680f3e3",
+      "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/BepInEx/plugins/HoloMahjongResponsiveUI/NumberedMahjongTiles-Large.png"
+    },
+    {
+      "path": "BepInEx/plugins/HoloMahjongResponsiveUI/NumberedMahjongTiles-Medium.png",
+      "size": 578422,
+      "sha256": "4d8a544d8279ca8d2b202640fab328d5f95205a3843df159102b93a25687812a",
+      "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/BepInEx/plugins/HoloMahjongResponsiveUI/NumberedMahjongTiles-Medium.png"
+    },
+    {
+      "path": "BepInEx/plugins/HoloMahjongResponsiveUI/NumberedMahjongTiles.png",
+      "size": 573434,
+      "sha256": "46c8e210c339c85d4deefaea37a87123cf68c95c725c98a0fa190b60730d3d9b",
+      "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/BepInEx/plugins/HoloMahjongResponsiveUI/NumberedMahjongTiles.png"
+    },
+    {
+      "path": "BepInEx/Translation/en/Text/HoloMahjongManualTranslations.txt",
+      "size": 73745,
+      "sha256": "abf7d3bd5840e9c71818786a57dc1d490f7dc798f974865f9bbb4c39d7168988",
+      "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/BepInEx/Translation/en/Text/HoloMahjongManualTranslations.txt"
+    },
+    {
+      "path": "Launch HoloMahjong (English Patch).cmd",
+      "size": 171,
+      "sha256": "244d26f54be8fffb998d7bce93db35d51855da1f9c1503444b7019e19f3ec6d4",
+      "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/Launch HoloMahjong (English Patch).cmd"
+    },
+    {
+      "path": "Update HoloMahjong English Patch.cmd",
+      "size": 147,
+      "sha256": "93f792bc8fbc1c100f1dc772283a503f92ee4cadeaa8818466b172014960ee0a",
+      "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/Update HoloMahjong English Patch.cmd"
+    },
+    {
+      "path": "Update-HoloMahjongPatch.ps1",
+      "size": 4619,
+      "sha256": "a6913d28dafe72da980a8ace5ccce35a7c829abf2ade9545ef18baa4666b7584",
+      "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/Update-HoloMahjongPatch.ps1"
+    }
+  ]
+}
