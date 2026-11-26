@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "1.2.1",
-  "generated_utc": "2026-11-26T04:39:21.4167014Z",
+  "version": "1.2.2",
+  "generated_utc": "2026-11-26T04:41:21.7782383Z",
   "files": [
     {
       "path": "BepInEx/patchers/HoloMahjong.AutoUpdater.dll",
-      "size": 20992,
-      "sha256": "3788479407578cad7040468a667efc206425388fa955c0040fd8aa3cc3abd686",
+      "size": 21504,
+      "sha256": "ee6f655ddb7dc26887168e7803feb26e14e9c5b727f19d41ee25f78fc39c6ffd",
       "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/BepInEx/patchers/HoloMahjong.AutoUpdater.dll"
     },
     {
@@ -36,7 +36,7 @@
     {
       "path": "BepInEx/Translation/en/Text/HoloMahjongManualTranslations.txt",
       "size": 74844,
-      "sha256": "985964ddecc5ff2a40135866b634fa2e66fcc1fbc6433436876f1c4680bd01ed",
+      "sha256": "e12e472ebce11b33a8feb826165bd69147fd858ef49f09ba10dfd1e5252c1219",
       "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/BepInEx/Translation/en/Text/HoloMahjongManualTranslations.txt"
     }
   ]
