@@ -21,7 +21,7 @@ The incremental payload consists only of:
 - the responsive UI and dialogue plugin;
 - three numbered tile atlases.
 
-The small preloader bootstrap is installed by the ZIP and intentionally remains outside incremental updates because Windows locks loaded patcher assemblies. Patch content continues to update automatically.
+When files change, the preloader stages verified downloads, closes the game, applies replacements through a small temporary helper, and relaunches automatically. This permits safe updates even when a DLL would otherwise be locked.
 
 ## Safety
 
