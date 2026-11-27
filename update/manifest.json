@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "1.3.0",
-  "generated_utc": "2026-11-26T12:45:20.8602949Z",
+  "version": "1.4.0",
+  "generated_utc": "2026-11-26T15:35:54.9131786Z",
   "files": [
     {
       "path": "BepInEx/patchers/HoloMahjong.AutoUpdater.dll",
@@ -35,8 +35,8 @@
     },
     {
       "path": "BepInEx/Translation/en/Text/HoloMahjongManualTranslations.txt",
-      "size": 210412,
-      "sha256": "ff98dd595764def437c33596a8c0efae12f9dae1d941a01a49b470d9abba01d2",
+      "size": 419493,
+      "sha256": "b6e502c1232e9133b0f41c2bed3190c78247b94bd4021a482d67cf19e86b5694",
       "url": "https://raw.githubusercontent.com/mojolern/HoloMahjong-English-Patch/main/update/payload/BepInEx/Translation/en/Text/HoloMahjongManualTranslations.txt"
     }
   ]
