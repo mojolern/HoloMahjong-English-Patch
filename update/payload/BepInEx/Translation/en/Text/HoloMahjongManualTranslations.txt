@@ -4253,4 +4253,194 @@ FPSのおかげかな。詰め方とか強ポジとか、\nやってるうちに
 だから、君には最後まで、\nんなたんのことを手伝ってほしいのら。=So Luna wants you to help Nna-tan\nright through to the end.
 ……うん！　ありがとう！<interval\=0.5>\n君がいてくれると、とっても心強いのら♪=...Yes! Thank you!<interval\=0.5>\nHaving you here gives Luna so much confidence, nanora♪
 最後までんなたんを支えて、\n勝利までエスコートするのらよ！　<interval\=0.5>約束、ね！=Support Nna-tan to the very end\nand escort her all the way to victory!<interval\=0.5> Promise!
+突如始まった 牌源郷最強を決める戦い。\nその名も『ホロライブ大大大麻雀大会』！！=A sudden battle has begun to determine Haigenkyo's strongest player.\nIts name: the hololive Super-Duper Mahjong Tournament!!
+サポーターであるあなたの目的は、\n雪国育ちのハーフエルフ、雪花ラミィの大会優勝。=As her supporter, your goal is to lead Yukihana Lamy,\na half-elf raised in a snowy land, to victory.
+果たしてサポーターは、\n愛情深い彼女を優勝へと導けるのか……？=Can her supporter guide this deeply affectionate half-elf\nall the way to the championship...?
+１つだけ願いが叶うのかぁ～。=Any one wish will be granted, huh?
+\n夢が広がりますな～。=\nJust imagine the possibilities.
+はーい！　ねねは、宇宙旅行行きたい！=Me! Nene wants to travel to space!
+\nあと温泉もいいよねー、遊園地もー！=\nA hot spring would be nice too—and an amusement park!
+聞いてた？=Were you listening?
+１つだけなんだってば！\n今３つくらい出てこなかった！？=You only get one!\nDidn't you just name three?!
+えーじゃあラミちゃんは決まってるの？=Then have you decided, Lamy-chan?
+それがね、どうしよっかな～って。=That's the problem. What should Lamy choose?
+\n１つに絞るの、難しくなーい？=\nIsn't narrowing it down to one really hard?
+まあ、すごくシンプルなのだと……=Well, a very simple wish would be...
+\nお金いっぱい欲しい、とか？=\n'I want lots of money'?
+俗っぽいな！=That's so materialistic!
+ししろん、そんなのでええんか！？=Shishiron, is that really all you want?!
+いやアタシは自分のラーメン屋チェーンを\n展開するとかにするけど。=No, I'd wish to open\nmy own chain of ramen shops.
+なんでお金の例えが出てきたのよ、じゃあ！=Then why was money your example?!
+肝臓がもう１つ増えますように、とかいいじゃん。=Why not wish for a second liver?
+\nラミィのことだから本当に顔が肝臓になるかもだけど！=\nThough knowing Lamy, your face might literally turn into one!
+怖いわ！=That's horrifying!
+失敗した人体模型か！\nどうなっちゃうんだよラミィの体ぁ！=What am I, a failed anatomy model?!\nWhat would happen to Lamy's body?!
+あ！　やっぱねね、世にも珍しいカブトムシを\n育てさせてくださーいってのにしよ！=Oh! Nene changed her mind! She'll ask to raise\nthe rarest rhinoceros beetle in the world!
+ああうん、それはもう好きにしてもろて！=Sure, go right ahead!
+\nていうか一番参考になるよ、なんなら！=\nHonestly, that's the most helpful suggestion so far!
+お？　じゃあ方向性決まった感じ？=Oh? Did that give you a direction?
+まぁ……みんな、好きなものを広めたいとか\n極めたいとかって話でしょーお？=Well... Everyone wants to spread something they love\nor take it to the next level, right?
+なら、=Then...
+世界一おいしいお酒が飲みたい！=Lamy wants to drink the most delicious liquor in the world!
+\n……とかも、願い事としてはアリなんじゃない？=\n...Wouldn't that make a perfectly good wish?
+ああ、わかる。○○○○ね。=Oh, I know. You mean ████.
+全部伏字！=You censored the whole thing!
+もしかして商品名か！？\n商品名出したんか！？=Was that a brand name?!\nDid you actually name a product?!
+というか、ラミィが飲みたいのは、=What Lamy wants is
+\n誰も知らない幻のお酒、みたいなやつね？=\nsome legendary liquor no one has ever heard of, okay?
+ああ、わかる。ポルカ汁ね。=Oh, I know. Polka Juice.
+出汁でも取られたん！？=Were you boiled down for broth?!
+\n天丼であり得ない酒の主張すなぁ！！=\nQuit repeating the same impossible-liquor gag!!
+まーでも、願いが決まったんなら、=Well, if your wish is decided,
+ポルカたちは\nライバルっつーことで！　負けねーかんな！=then we're rivals!\nPolka isn't going to lose!
+ライバル……いいね！=Rivals... Lamy likes that!
+願いもそうだけど……\nやっぱり、楽しくやって、勝ちたいし！=The wish matters, but...\nLamy wants to have fun and win!
+うお～。頑張れ～。=Woo. Good luck.
+<size\=60>アンタたちも頑張んだよぉ！</size>=<size\=60>You two need to try too!</size>
+ラミィ～、元気だしなって。=Lamy, cheer up.
+\nまだまだこれから、伸びしろだからさ～。=\nYou're still learning. There's plenty of room to grow.
+まさか……こんなに勝てないなんて、=Lamy can't believe... she would lose this badly.
+\nラミィは麻雀に嫌われてるんだ……。=\nMahjong must hate Lamy...
+あちゃー、ダウナー入っちゃったね。=Uh-oh. She's gone into downer mode.
+\nアンニュイなラミちゃんも可愛いけど。=\nThough melancholy Lamy-chan is cute too.
+ししろん、そういうのスッと言うのずるいなぁ。=Shishiron, it's unfair how easily you say things like that.
+\nラミィ以外にも言ってんじゃないの……？=\nDon't you say that to other girls too...?
+わぁ、すっかり病んじゃって～。=Wow, she's completely spiraling.
+\nそんなに気にすることないのに～？=\nYou really don't need to take it so hard.
+１位のししろ以外は\nわりとドベ争いみたいなもんだったじゃん？=Besides Shishiro in first,\nthe rest of us were basically fighting for last place, right?
+でもずっとラミィがビリだったもん……！！=But Lamy was in last place the whole time...!!
+\n麻雀くんはラミィのことなんてどーでもいいんだー！！=\nMahjong-kun doesn't care about Lamy at all!!
+あ～！　よしよし泣かないで～。=Aww! There, there. Don't cry.
+\n麻雀くんもラミィが一番だって言ってたからね～。=\nMahjong-kun said Lamy is his number one too.
+ほんとぉ……？　ほんとぉに言ってたのぉ？=Really...? Did he really say that?
+じゃあ麻雀くんに聞いてみて？=Then ask Mahjong-kun something for Lamy.
+大好きなラミィが\n負けて落ち込んでるけどどういう気持ちなのって。=Ask how he feels knowing his beloved Lamy\nis depressed because she lost.
+……とのことですが。=...You heard her.
+どうよ、ししろ？=What do you say, Shishiro?
+ええっ、アタシに投げんのっ？=What?! You're dumping this on me?
+\nおまるんが言ったんでしょ、責任取りなよ！=\nYou started it, Omarun! Take responsibility!
+ねえ麻雀くんはどうするつもりだったの？=Well, Mahjong-kun? What were you planning to do?
+悲しみで\nラミィの心が離れちゃったらどうするつもりだったの？=What if Lamy's broken heart\nmade her fall out of love with you?
+あ～あ～、そうこうしてるうちに\nラミィがどんどんダウナーに～……。=Oh dear. While you two argue,\nLamy is sinking deeper and deeper...
+あ～、う～……=Uh... Umm...
+あ！！　あの酒は！！=Ah!! That liquor!!
+\nほらラミィ、この酒を見よ！=\nLook, Lamy! Behold this bottle!
+これが世界一……=This is the world's most...
+とはいかないまでも、\n２番目においしい酒だって知ってるか！？=Well, maybe not quite—but did you know\nit's the second-most delicious liquor in the world?!
+そうなの～、おまるん？\nアタシも飲んでみたいな～！=Really, Omarun?\nI want to try it too!
+ねねも一杯、いただいてもよろしくて～？=Might Nene partake of a glass as well?
+急に何……？=What brought this on...?
+そんなことで、\nラミィをどうにかできるとお思いで……？=Do you truly believe\nthat will be enough to sway Lamy...?
+いや！　本当においしいお酒なんだよ！=No, this liquor is genuinely delicious!
+\n世界一のお酒は、これを超えるということだ！=\nAnd the world's best liquor must taste even better than this!
+ごくっ……=Gulp...
+えマジでうまっ。=Whoa, this is seriously good.
+\nラミちゃんも、これ以上のお酒が飲みたいなら……。=\nLamy-chan, if you want something even better...
+負けた悔しさをバネに、頑張んないとだよ！=you need to turn that frustration into motivation!
+\n……てか本当においしいねこれ、ねねもうひと口。=\n...But this really is delicious. Nene wants another sip.
+ちょっとぉ！=Hey!
+真剣に励ますか、お酒飲むか\nどっちかにしろよぉ！=Either encourage Lamy seriously or drink the liquor—\npick one!
+ふーっ……=Phew...
+でも、みんなが美味しそうに飲んでるの見て、\nラミィもやる気出てきたからぁ。=But seeing everyone enjoy it so much\nhas restored Lamy's motivation.
+お酒のためなら、もっとやれるっ！=For the sake of that liquor, Lamy can do more!
+\nラミィ、絶対優勝してやるんだからーっ！=\nLamy is absolutely going to win this tournament!
+突如始まった、酒飲み最強を決める戦い。=A sudden battle began to decide the mightiest drinker.
+\nその名も『ホロライブ大大大ヤケ酒大会』！！=\nIts name: the hololive Super-Duper Drowning-Our-Sorrows Tournament!!
+ワァ。ラミちゃん荒れてんねえ。=Wow. Lamy-chan is really going off the rails.
+\n悔しかったかぁ～。=\nThat loss really stung, huh?
+そりゃそーだよ！=Of course it did!
+あと少しで\n優勝ってとこまでいったのにー！！=I was this close\nto winning the whole thing!!
+え？　でもラミィって準々決勝……。=Huh? But Lamy, you went out in the quarterfinals...
+シッ！！=Shh!!
+初心者でもそこまで行ったなら、\n十分頑張った成果だろっ！！=Getting that far as a beginner\nwas already a great achievement!!
+そ、そうだね！=Y-Yeah, exactly!
+ねねも優勝できなかったし、\nヤケ酒につきあうぜっ！！=Nene didn't win either,\nso I'll join your pity party!!
+は～……まあ、悔しいよ？　悔しいけど。=Sigh... I mean, I'm frustrated. I am.
+\n全力でやって、スッキリもしてるよね。=\nBut I gave it everything, so I feel satisfied too.
+ホロメンみんな本気でぶつかって、\n深まる友情ってやつだ！=All the holomem gave it their all,\nand our friendship grew stronger!
+ねぽらぼも卍我等永久友情不滅卍だな！=NePoLaBo's eternal friendship is indestructible!
+お？　なんだ？\n俺たちもしかして４娘１か？=Oh? What's this?\nAre the four of us BFFs now?
+やめろぉ！　古のJKみたいな会話すんな！=Stop! Don't talk like high-school girls from the early 2000s!
+\nとにかく、楽しかったけど、でも悔しいよねの会！=\nAnyway, this is the 'That Was Fun but Losing Still Sucks' party!
+そんなラミちゃんのために、=And for our dear Lamy-chan,
+アタシは\n特製ラーメン一丁、用意してあんのよ。=I've got\none bowl of special ramen ready.
+し、ししろん……！=Sh-Shishiron...!
+\nラミィのためにそんなことを……！=\nYou did all that for Lamy...?
+おすすめトッピングは『ねぎだく』、これだね。=The recommended topping is extra green onions. That's the ticket.
+\n大盛りねぎだくギョク。これが通の頼み方。=\nExtra-large, loaded with onions, plus an egg. That's how the pros order.
+もしかしてそれが言いたいだけなんじゃ……。=Did you just want an excuse to say that...?
+はいはいはい！=Me, me, me!
+ねねとおまるんで、\nマジックショーしまーす！！=Nene and Omarun will now perform\na magic show!!
+え！？　<interval\=0.5>おまるんはともかく、ねねも手品できるの？=What?! <interval\=0.5>Omarun, sure, but you can do magic too, Nene?
+こうやって……=Watch closely...
+親指が取れちゃいま～す！=Nene can pull off her thumb!
+ポルカも似たようなのできるわ！=Polka can do something like that too!
+\n中指取れてつけ直したように見えるやつ！！=\nI can make it look like my middle finger comes off and goes back on!!
+そんな子ども騙しの……=That cheap little kids' trick...
+いや上手いな！\n本当に一瞬そう見えたわ！=Wait, you're good!\nFor a second, it really looked real!
+まだまだあるぞ！=There's plenty more!
+\n次はトランプを使ってだね……！=\nNext, we'll use a deck of cards...!
+もー、みんな、元気づけようとしてくれてるの？=Aww, are you all trying to cheer me up?
+\nありがとぉ～！　ラミィもらいしゅき～！=\nThank yooou! Lamy loves you guys toooo!
+おい！　いつの間にか顔真っ赤だぞ！！=Hey! When did your face get that red?!
+\nなんで誰も止めなかった！=\nWhy didn't anyone stop her?!
+らって、ねぼらぼあったけぇんらもん！=But NePoLaBo's sho warm and cozy!
+\nお酒も進みに進んで……。=\nThe drinks jusht keep going down...
+っくぅ～！　うまいっ！！=Ahhh! That's good!!
+\nみんなと飲むお酒が世界一おいしいっ！！=\nDrinking with everyone tastes better than anything in the world!!
+あれ？　ってことはもしかして、=Wait. Doesn't that mean...
+\nラミィのお願いって叶っちゃったんじゃない？=\nyour wish already came true, Lamy?
+よかったねえラミちゃん。=Good for you, Lamy-chan.
+\n優勝しなくても、幸せ者になれちゃったよ！=\nYou became the luckiest girl around without even winning!
+ほんとぉ～～？？=Reaaally?
+ラミィ、\n世界で一番、輝いてるぅ～？=Is Lamy\nthe brightest girl in the whole world?
+うぇ～い！=Woohoo!
+だったら今日は、\n朝までず～っと酒盛りしちゃお～！！=Then let's keep this party going\nall the way until morning!!
+終わったー！　今日も１日大変だったね～。=All done! We worked hard today too.
+君も、一生懸命ラミィを応援してくれて、ありがとう♪=Thank you for cheering Lamy on with all your heart♪
+前々から思ってたことだけど、\nラミィがこうして頑張れるのは、君のおかげだから！=I've thought this for a long time, but...\nyou're the reason Lamy can keep trying her best!
+この気持ち。<interval\=0.5>\n出会ったばっかりの頃より、ずっとずっと強くなってる……。=These feelings...<interval\=0.5>\nThey're so much stronger than when we first met...
+ラミィが今元気なのも、これから頑張れるのも、\n君がいなかったらありえないから。=Lamy wouldn't be this happy now or ready to keep going\nif you weren't here.
+君に大好きだって言ってもらえるの、すごく嬉しい。\nだからラミィも……=It makes Lamy so happy when you say you love her.\nSo Lamy wants you to know...
+君のこと、大好きだよ♡=Lamy loves you too♡
+ふふっ、いつもラミィを愛してくれてありがとう！=Hehe. Thank you for always loving Lamy!
+やったぁ！　すごいよ、３連勝！=We did it! Three wins in a row! That's amazing!
+\nこんなに勝てたの、初めてだ～！=\nLamy's never won this many before!
+君のサポートのおかげだよ～。=It's all thanks to your support.
+\nラミィだけじゃ無理だったかも。=\nLamy might not have managed it alone.
+えへへ……=Ehehe...
+うん、楽しかった！\n思った通りにできると、爽快だね！=Yeah, that was fun!\nIt feels amazing when everything goes just how you planned!
+でね、せっかく３連勝もできたんだし、=And since we managed three wins in a row,
+\nこの後にすること……わかるかなぁ？=\nyou know what comes next... right?
+さすが！　ラミィのこと、よくわかってるぅ～！=That's my supporter! You know Lamy so well!
+\nだったら準備はばっちりだよね！=\nThen you must be all ready!
+そう！　快勝祝いの、晩酌だ～！！=That's right! We're celebrating our big wins with drinks!!
+\n日本酒もワインも開けちゃお～！=\nLet's open some sake and wine!
+場所はラミィの家ね！=We'll do it at Lamy's place!
+君も、飲んで飲んで！\nお祝いだから、遠慮はなしだよ～！=Drink up, you too!\nWe're celebrating, so don't hold back!
+むにゃ……むにゃ……<interval\=1>\nふわぁ……。<interval\=0.3>あれ……ここどこぉ？=Mmm... Mmm...<interval\=1>\nYaaawn...<interval\=0.3> Huh...? Where am I?
+……あぁ、そうだぁ。ラミィのおうちだ～。<interval\=0.5>\n２人で飲んでて～、それで……<interval\=1>ふわぁあ。=...Oh, right. We're at Lamy's house.<interval\=0.5>\nWe were drinking together, and then...<interval\=1> yaaawn.
+わぁ……気持ちよさそうに寝てる……。<interval\=0.5>\nラミィもぉ……もうちょっと、寝よっかなぁ……。=Aww... You look so peaceful asleep...<interval\=0.5>\nMaybe Lamy will... sleep a little longer too...
+あ！　起きた！<interval\=0.5>\nふふ、すごいぐっすりだったね～。=Oh! You're awake!<interval\=0.5>\nHehe. You were really out cold.
+覚えてる？　<interval\=0.3>ラミィの家で晩酌してたら、\n２人とも眠くなって、寝ちゃったみたいでさ～。=Remember? <interval\=0.3>We were having drinks at Lamy's place,\nthen we both got sleepy and must've dozed off.
+先に目ぇ覚めたから、君が起きるの待ってたんだ。<interval\=0.5>\nちなみにラミィは、迎え酒してま～す♪=Lamy woke up first, so she waited for you.<interval\=0.5>\nAnd in case you're wondering, she's having a little hair of the dog♪
+ひと眠りしたら、復活したの！=That nap brought Lamy right back to life!
+\nなんたってラミィは顔が肝臓ですのでねぇ。=\nAfter all, Lamy's liver has a face of its own!
+それに……君の寝顔を<ruby\=さかな>肴</ruby>に飲むと、\n普段よりもとっても美味しく感じるの♪=Besides... drinking with your sleeping face as my <ruby\=さかな>snack</ruby>\nmade it taste even better than usual♪
+もうしばらく眺めててもよかったな～。<interval\=0.5>\nなんてね、ふふっ。=Lamy could've watched you a while longer.<interval\=0.5>\nJust kidding. Hehe.
+やっぱり、お喋りしながらのほうが、\nラミィは好きだなぁ。=But Lamy really does prefer\ndrinking while we talk.
+ほらほら、新しいのも開けちゃったし、\nラミィを１人にしないで～？=Come on, Lamy already opened another bottle.\nDon't leave her drinking alone, okay?
+<speed\=0.5>と</speed>・<speed\=0.5>な</speed>・<speed\=0.5>り</speed>。空いてますよ～？=The seat <speed\=0.5>right</speed> <speed\=0.5>beside</speed> <speed\=0.5>me</speed> is open, you know?
+\n君もラミィと一緒にいたいでしょぉ？=\nYou want to stay with Lamy too, don't you?
+……あ。まーたそうやって、\nそっけないフリしちゃってさー。=...Oh. There you go again,\npretending you don't care.
+そうやってやれば、気が引けると思ってるんだ。<interval\=0.5>\nってことは、君はラミィが好きなんだ～♪=You think acting aloof will get Lamy's attention.<interval\=0.5>\nWhich means you must like her♪
+だーめ♡　<interval\=0.5>全部飲むまで、\n今日は帰るの禁止だよ～♪=Nope♡ <interval\=0.5>You're not allowed to go home\nuntil we finish it all♪
+さあほら、乾杯乾杯。\n体中の水分、ぜーんぶお酒にしちゃおうね。=Come on, cheers!\nLet's replace every drop of water in our bodies with alcohol.
+って、まてぇい！　本当に帰ろうとすなぁ！<interval\=0.5>\nラミィと一緒にいたくないのー！？=Hey, wait! Don't actually try to leave!<interval\=0.5>\nDon't you want to stay with Lamy?!
+え？　<interval\=0.5>……さすがに、この量を全部飲み切るのは、\n今のコンディションじゃ無理っぽい？=Huh? <interval\=0.5>...There's too much to finish\nwhen you're feeling like this?
+なぁんでそ～んなこと言うのぉ～？<interval\=0.5>\nラミィと一緒なら、君に無理なことなんてないよぉ。=Why would you say thaaat?<interval\=0.5>\nNothing is impossible when you're with Lamy.
+ね？　お願い♡<interval\=0.5>\nラミィ、君のこと信じてるから♡=Please? For Lamy♡<interval\=0.5>\nShe believes in you♡
+やぁ～だぁ～！　<interval\=0.3>帰っちゃやぁ～だ～！<interval\=0.5>\nもっと一緒にいてよぉ～！=Nooo! <interval\=0.3>Don't go hoooome!<interval\=0.5>\nStay with Lamy longer!
+……それとも、ラミィと飲むの、嫌……？=...Or do you not like drinking with Lamy...?
+んふふふ、嫌じゃないなら好きだよね～♪<interval\=0.5>\nは～い、今日はもう離してあげませ～ん！=Nfufufu. If you don't dislike it, you must love it♪<interval\=0.5>\nAll right, Lamy isn't letting you go tonight!
 # --- END REVIEWED STORY TRANSLATIONS ---
